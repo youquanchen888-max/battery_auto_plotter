@@ -1,0 +1,8 @@
+pyside6
+pywinauto
+pandas
+numpy
+matplotlib
+openpyxl
+pyinstaller
+pyautogui
